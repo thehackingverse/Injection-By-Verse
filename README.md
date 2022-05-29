@@ -1,13 +1,15 @@
 # Injection-By-Verse
  ==> Injection by verse is the sql injection lab . In this lab you have do sql injection &amp; inject out the data &amp; do login in the account. 
+ ## Difficulty Level :- Medium ;D
 
 ## How to download this lab
 1.GO to this google drive link :- https://drive.google.com/file/d/1ikiEARop4UPvzwnh3eI3qtrtqfz6QWmr/view?usp=sharing 
+
 2.Now download the rar file by using above this link.
 
 ## Installation 
 1. The rar file is protected with password for extarct them you have to enter the hackthobx as password to extract that rar file.
-2. Now After you will have one iso file , one window server file , vmware file & etc. Choose your interface 
+2. Now After you will have one iso file , one window server file , vmware file & etc. Choose your interface & run your sql injection lab.
 
 ## Note
 ====>>> To run this sql injection first read readme.txt file before running this lab in your system.
