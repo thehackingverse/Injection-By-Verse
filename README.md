@@ -12,8 +12,33 @@ In this sql machine users have to do the sql injection on the login page & injec
 
 
 
-## Walk Through ;D
-=>> One walk through is also given in repo to understand & how to solve this lab. ;D
+## Source Code of Lab ;D
+=>> If you need to review source code these lab kinldy in abpove folder named sqllevl1.2&3
+
+## walthrough for level 1 is 
+
+1.put this basic payload of sql injection in any filed 
+
+2.payload test' or 1=1#
+
+
+## walthrough for level 2 is 
+
+1.put this  payload of sql injection in password filed 
+
+2.payload test' or 1=1#
+
+
+
+## walthrough for level 3 is 
+
+1.put any sql payload in any filed 
+2. You will get an error message in left side that id parameter is undefined 
+3. opne your terminal and type this command & run 
+4. sqlmap --url /index.php?id= --dbs 
+5. You will get the db and now dump and do login ;D
+
+
 
 
 
