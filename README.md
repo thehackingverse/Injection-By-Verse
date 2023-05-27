@@ -33,9 +33,17 @@ In this sql machine users have to do the sql injection on the login page & injec
 ## walthrough for level 3 is 
 
 1.put any sql payload in any filed 
+
+
 2. You will get an error message in left side that id parameter is undefined 
+
+
 3. opne your terminal and type this command & run 
+
+
 4. sqlmap --url /index.php?id= --dbs 
+
+
 5. You will get the db and now dump and do login ;D
 
 
